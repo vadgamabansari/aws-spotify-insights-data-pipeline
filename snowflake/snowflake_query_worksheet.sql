@@ -110,7 +110,3 @@ DESC pipe pipe.tbl_songs_pipe;
 DELETE FROM TBL_ALBUM;
 
 SELECT SYSTEM$PIPE_STATUS('pipe.tbl_songs_pipe');
-
-
-
-    
