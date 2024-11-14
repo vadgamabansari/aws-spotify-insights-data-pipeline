@@ -1,2 +1,2 @@
 # aws-spotify-insights-data-pipeline
-## 🚀 Project launching soon... Stay tuned!
+## 🚀 This repository is still under development... Stay tuned!
